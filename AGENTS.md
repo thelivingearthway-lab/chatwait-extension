@@ -1,4 +1,4 @@
-# Agent Notice
+# Agent Notice 
 
 This repository is a public mirror published from a private source-of-truth
 repository. It is licensed under **PolyForm Strict License 1.0.0** (see
